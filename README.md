@@ -8,6 +8,8 @@
 
 회의: 개최량 / 회의 청취, 다운로드 이력
 
+DB: MariaDB
+
 ![mmcs1](https://github.com/SangminLee91/MMCS_backend/assets/122711330/3b434c08-89a6-4eae-9e05-71fa45555c24)
 ![mmcs2](https://github.com/SangminLee91/MMCS_backend/assets/122711330/67504380-7132-4f4d-a896-b9d69282e727)
 ![mmcs3](https://github.com/SangminLee91/MMCS_backend/assets/122711330/51c2bc73-5194-41bc-ae28-98884b7abc33)
