@@ -8,6 +8,12 @@
 
 회의: 개최량 / 회의 청취, 다운로드 이력
 
+언어, 프레임워크 및 라이브러리: 
+
+Front - Thymeleaf, jQuery
+
+Back - Java, JavaScript, SpringBoot, MyBatis
+
 DB: MariaDB
 
 ![mmcs1](https://github.com/SangminLee91/MMCS_backend/assets/122711330/3b434c08-89a6-4eae-9e05-71fa45555c24)
