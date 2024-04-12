@@ -10,8 +10,6 @@
 
 언어, 프레임워크 및 라이브러리: 
 
-Front - Thymeleaf, jQuery
-
 Back - Java, JavaScript, SpringBoot, MyBatis
 
 DB: MariaDB
